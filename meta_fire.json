@@ -1,0 +1,218 @@
+{
+  "sitemeta": {
+    "url": "https://firepress.org/",
+    "title": "FirePress Hosting",
+    "description": "Use Ghost to publish your website (CMS), to blog and to monetize your content with the built-in membership tooling.",
+    "author": "Pascal Andy",
+    "social": {
+      "twitter": "@askpascalandy",
+      "facebook": "@askpascalandy"
+    },
+    "lang": "en",
+    "locale": "en_us"
+  },
+  "devMeta": {
+    "vendor": "firepress.org",
+    "dev_lead": "Pascal Andy",
+    "client_id": "8015",
+    "schema_version": "1.0"
+  },
+  "list_nav": [
+    {
+      "id": 11,
+      "title": "Ressources",
+      "sub_title": {
+        "child1": "Themes",
+        "child2": "Alexi",
+        "child3": "Premier",
+        "child4": "man"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Product",
+      "sub_title": {
+        "child1": "SaaS",
+        "child2": "Services",
+        "child3": "Marketing"
+      }
+    },
+    {
+      "id": 13,
+      "title": "By Tags",
+      "sub_title": {
+        "child1": "UAT",
+        "child2": "Staging",
+        "child3": "Prod",
+        "child4": "Errors"
+      }
+    },
+    {
+      "id": 14,
+      "title": "About",
+      "sub_title": {
+        "child1": null
+      }
+    }
+  ],
+  "content": [
+    {
+      "id": 11,
+      "page_about": {
+        "section_1": {
+          "element_a": {
+            "title1": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+            "sub_title1": "yellowduck774",
+            "para1": "wCEq0lgb",
+            "url": "wCEq0lgb",
+            "img_main": "wCEq0lgb",
+            "img_alt": "wCEq0lgb"
+          },
+          "element_b": {
+            "title1": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+            "sub_title1": "yellowduck774",
+            "para1": "wCEq0lgb",
+            "url": "wCEq0lgb",
+            "img_main": "wCEq0lgb",
+            "img_alt": "wCEq0lgb"
+          },
+          "element_c": {
+            "title1": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+            "sub_title1": "yellowduck774",
+            "para1": "wCEq0lgb",
+            "url": "wCEq0lgb",
+            "img_main": "wCEq0lgb",
+            "img_alt": "wCEq0lgb"
+          }
+        },
+        "section_2": {
+          "title1": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+          "sub_title1": "yellowduck774",
+          "para1": "wCEq0lgb",
+          "url": "wCEq0lgb",
+          "img_main": "wCEq0lgb",
+          "img_alt": "wCEq0lgb"
+        }
+      },
+      "address": {
+        "street_no": 3324,
+        "street_name": "Calle de La Luna",
+        "city": "Zaragoza",
+        "state": "Aragón",
+        "country": "Spain",
+        "postcode": 46819,
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "phone_cel": "933-675-467",
+      "phone_alt": "604-887-891",
+      "email_main": "lourdes.serrano@gmail.com",
+      "email_alt": "lourdes.serrano@hotmail.com",
+      "login": {
+        "uuid": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+        "username": "yellowduck774",
+        "salt": "wCEq0lgb",
+        "sha256": "c73d8b9da78d858c7ef785c8071bb889c80ff84965066a7d048715b9fccf2a9a"
+      },
+      "nationality": "FR",
+      "date_of_birth": {
+        "year": "1978",
+        "month": "12",
+        "day": "4"
+      },
+      "profil_pic": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/md/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+      }
+    }
+  ],
+  "list_team": [
+    {
+      "id": 11,
+      "name": {
+        "title": "Mr",
+        "first": "Alexi",
+        "last": "Premier",
+        "gender": "man"
+      },
+      "address": {
+        "street_no": 3324,
+        "street_name": "Calle de La Luna",
+        "city": "Zaragoza",
+        "state": "Aragón",
+        "country": "Spain",
+        "postcode": 46819,
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "phone_cel": "933-675-467",
+      "phone_alt": "604-887-891",
+      "email_main": "lourdes.serrano@gmail.com",
+      "email_alt": "lourdes.serrano@hotmail.com",
+      "login": {
+        "uuid": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+        "username": "yellowduck774",
+        "salt": "wCEq0lgb",
+        "sha256": "c73d8b9da78d858c7ef785c8071bb889c80ff84965066a7d048715b9fccf2a9a"
+      },
+      "nationality": "FR",
+      "date_of_birth": {
+        "year": "1978",
+        "month": "12",
+        "day": "4"
+      },
+      "profil_pic": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/md/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "name": {
+        "title": "Mr",
+        "first": "Jimmy",
+        "last": "Ray",
+        "gender": "man"
+      },
+      "address": {
+        "street_no": 3324,
+        "street_name": "Calle de La Luna",
+        "city": "Zaragoza",
+        "state": "Aragón",
+        "country": "Spain",
+        "postcode": 46819,
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "phone_cel": "933-675-467",
+      "phone_alt": "604-887-891",
+      "email_main": "lourdes.serrano@gmail.com",
+      "email_alt": "lourdes.serrano@hotmail.com",
+      "login": {
+        "uuid": "8ee358f1-6577-44f2-90cf-3b3a065bc87a",
+        "username": "yellowduck774",
+        "salt": "wCEq0lgb",
+        "sha256": "c73d8b9da78d858c7ef785c8071bb889c80ff84965066a7d048715b9fccf2a9a"
+      },
+      "nationality": "FR",
+      "date_of_birth": {
+        "year": "1978",
+        "month": "12",
+        "day": "4"
+      },
+      "profil_pic": {
+        "large": "https://randomuser.me/api/portraits/women/12.jpg",
+        "medium": "https://randomuser.me/api/portraits/md/women/12.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+      }
+    }
+  ]
+}
