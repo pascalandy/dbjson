@@ -1,0 +1,37 @@
+[
+  {
+    "type": "nav_main",
+    "id": 1,
+    "name": "Ressources"
+  },
+  {
+    "type": "nav_main",
+    "id": 2,
+    "name": "About"
+  },
+  {
+    "type": "nav_main",
+    "id": 3,
+    "name": "Blog"
+  },
+  {
+    "type": "nav_main",
+    "id": 4,
+    "name": "Contact"
+  },
+  {
+    "type": "nav_sub_1",
+    "id": 5,
+    "name": "Themes"
+  },
+  {
+    "type": "nav_sub_1",
+    "id": 6,
+    "name": "Authentification"
+  },
+  {
+    "type": "nav_sub_1",
+    "id": 7,
+    "name": "Notification"
+  }
+]
